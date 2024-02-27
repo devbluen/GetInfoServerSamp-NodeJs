@@ -24,4 +24,4 @@ Example:
 - HasPassword
 
 ### Screenshot
-![Screenshot](screenshot/screenshot.png)
+![Screenshot](Screenshot_1.png)
